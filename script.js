@@ -1,3 +1,4 @@
+"use strict";
 //TODO 🟦 Module 07 - DOM Manipulation - Lesson 01: Section Intro
 
 
